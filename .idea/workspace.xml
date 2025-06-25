@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c285eb8-2371-43af-9159-aec0de0b7ebd" name="Changes" comment="" />
+    <list default="true" id="9c285eb8-2371-43af-9159-aec0de0b7ebd" name="Changes" comment="feat: first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,14 +28,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.PsUserApplication.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Java/Projetos/Pagamento-Simplificado"
+    "last_opened_file_path": "D:/Java/Projetos/Pagamento-Simplificado/.idea"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\Projetos\Pagamento-Simplificado\.idea" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java\Projetos\Pagamento-Simplificado\.idea" />
     </key>
@@ -45,6 +52,15 @@
       <option name="presentableId" value="Default" />
       <updated>1750867131581</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: first commit">
+      <option name="closed" value="true" />
+      <created>1750868468012</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750868468012</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -57,5 +73,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: first commit" />
   </component>
 </project>
